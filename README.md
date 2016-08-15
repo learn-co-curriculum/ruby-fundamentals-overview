@@ -1,6 +1,6 @@
 ## What You'll Learn 
 
-You’ll learn the fundamentals of procedural and object oriented Ruby and reinforce your learning throughout by cumulatively building a Tic Tac Toe command line application game. In this way you’ll learn how to think like a programmer and structurally break down complicated problems into smaller component. Below is a general overview of what's covered. 
+You’ll learn the fundamentals of procedural and object oriented Ruby and reinforce your learning throughout by cumulatively building a Tic Tac Toe command line application game. In this way you’ll learn how to think like a programmer and structurally break down complicated problems into smaller component. Below is a general overview of what's covered. You'll notice that many of the concepts below will look familiar to you as you've already covered them in the Javascript units. 
 
 ## Debugging
 - Debug Ruby Programs using IRB
